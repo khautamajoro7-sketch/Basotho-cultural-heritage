@@ -37,14 +37,9 @@ nav ul{
      height:130px;
      width:130px;
 }
-.container >div>img:hover{
-     color:blueviolet;
-     height: 456px;
-     width:236px;
-     box-shadow: rgb(0, 0, 0 / 0.3);
-}
 
 h1{
 
      text-align: center;
+
 }
